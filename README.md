@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a bot developer that can code (somewhat) for many groups.
+Discord: samm#0021
 
 <!--
 **lxphere/lxphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
